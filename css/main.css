@@ -1,0 +1,30 @@
+.container{
+  
+  justify-content: center;
+  align-items: center;
+}
+.nav-link active{
+  color: red;
+  font-style: italic;
+}
+.nav-link{
+  color: #ffff !important;
+  font: 1em sans-serif;
+}
+.navbar-brand{
+  color: #ffff;
+}
+.contenidoCV{
+   height: 500px;
+  background-color: aquamarine;
+  justify-content: center;
+  display: flex;
+  align-items: center; 
+}
+.footer{
+  background-color: #9c9696;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
